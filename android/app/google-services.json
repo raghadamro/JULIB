@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581581286629",
+    "project_id": "julib-2fd16",
+    "storage_bucket": "julib-2fd16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581581286629:android:349b31afa55a034543780c",
+        "android_client_info": {
+          "package_name": "com.example.julib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581581286629-ea6fddj5ngu7jam3qqe6s63crmk5reud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiMtpcQ-u9Zfx1gBSBCb-J11StTZyQUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581581286629-ea6fddj5ngu7jam3qqe6s63crmk5reud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
